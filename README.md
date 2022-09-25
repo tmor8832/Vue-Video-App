@@ -1,4 +1,8 @@
-# product-and-cart
+# Simple Video Viewer
+
+Simple video viewer made in vue JS to show locally stored videos and also video livestreams from youtube
+
+![image](https://user-images.githubusercontent.com/64171887/192133499-29918dc3-7314-4a2b-b9f0-710ae5bff5d0.png)
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
